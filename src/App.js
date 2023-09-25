@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        <br/>
+        <mok-exaple></mok-exaple>
       </header>
     </div>
   );

@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'http://localhost:3333/build/test-components.esm.js'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
